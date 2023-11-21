@@ -11,7 +11,7 @@ Je m'appelle Thomas, passionné(e) de technologie et de développement. Avec une
 
 ## Projets
 
-### 1. [Nom du projet 1]
+### 1. Algorithme de Lancer de Rayons en C++
 
 Description concise du projet. Ce projet a été créé pour résoudre [problème spécifique ou répondre à un besoin]. Il utilise [technologies utilisées] et a été développé en [langage de programmation]. [Ajoutez d'autres informations pertinentes, comme les fonctionnalités clés, les dépendances, etc.]
 
