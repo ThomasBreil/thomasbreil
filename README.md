@@ -17,23 +17,11 @@ Description concise du projet. Ce projet a été créé pour résoudre [problèm
 
 **Lien vers le projet :** [Rapport du Projet]()
 
-### 2. [Nom du projet 2]
-
+### 2. Stage Erasmus en Roumanie ![R]
+ 
 Description concise du projet. Ce projet a été créé pour résoudre [problème spécifique ou répondre à un besoin]. Il utilise [technologies utilisées] et a été développé en [langage de programmation]. [Ajoutez d'autres informations pertinentes, comme les fonctionnalités clés, les dépendances, etc.]
 
 **Lien vers le projet :** [Mémoire du Stage](https://github.com/ThomasBreil/thomasbreil/blob/main/ThomasBREIL_M%C3%A9moire_de_Stage_2023.pdf)
-
-### 3. [Nom du projet 3]
-
-Description concise du projet. Ce projet a été créé pour résoudre [problème spécifique ou répondre à un besoin]. Il utilise [technologies utilisées] et a été développé en [langage de programmation]. [Ajoutez d'autres informations pertinentes, comme les fonctionnalités clés, les dépendances, etc.]
-
-**Lien vers le projet :** [lien GitHub]
-
-### 4. [Nom du projet 4]
-
-Description concise du projet. Ce projet a été créé pour résoudre [problème spécifique ou répondre à un besoin]. Il utilise [technologies utilisées] et a été développé en [langage de programmation]. [Ajoutez d'autres informations pertinentes, comme les fonctionnalités clés, les dépendances, etc.]
-
-**Lien vers le projet :** [lien GitHub]
 
 ## Contact
 
